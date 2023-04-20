@@ -1,4 +1,4 @@
-# AudioLoader | pre-release 0.3
+# AudioLoader | release 0.5
 ## Short Description
 Console audio search/download application
 [screenshots](https://imgur.com/a/frMazQv)
@@ -16,7 +16,7 @@ Console audio search/download application
 After using one of the search types, you get to a menu with a list of results. When you select it, it will start downloading to a folder, by default the `DOWNLOADS` folder in the root directory
 
 ## In future
-* Add support for `SoundCloud`
+* ~~Add support for `SoundCloud`~~
 * Possible support for platforms other than `Windows`
 * Perhaps the optimization
 * Maybe something else...
