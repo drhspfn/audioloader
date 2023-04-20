@@ -3,6 +3,8 @@
 Console audio search/download application
 [screenshots](https://imgur.com/a/frMazQv)
 
+In the screenshots there is no `SoundCloud` item. I may update the screenshots in the future
+
 ## More details
 * `YouTube Music`, `YouTube`, and `Deezer` are now available to search. The list is available in the `Help` menu in the app
 * In `Settings' there is an option:
