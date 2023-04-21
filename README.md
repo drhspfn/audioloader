@@ -19,6 +19,7 @@ After using one of the search types, you get to a menu with a list of results. W
 
 ## In future
 * ~~Add support for `SoundCloud`~~
+* Update notification `(Done, waiting for release)`
 * Adding covers when downloading from YouTube\YT Music. `(Done, waiting for release)`
 * Deezer Synchronized Texts Download `(Done, waiting for release)`
 * `Genius` and `MusixMatch` lyrics search
