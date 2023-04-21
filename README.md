@@ -20,14 +20,18 @@ After using one of the search types, you get to a menu with a list of results. W
 ## In future
 * ~~Add support for `SoundCloud`~~
 * Adding covers when downloading from YouTube\YT Music. `(Done, waiting for release)`
+* Deezer Synchronized Texts Download `(Done, waiting for release)`
+* `Genius` and `MusixMatch` lyrics search
+* A separate little app for downloading videos from `YouTube`. (Make it separate, or a menu in the main?...idk..)
 * Fix, abrupt exits from the app. `(Done, waiting for release)`
 * Possible support for platforms other than `Windows`
+* It is possible to do Lyric video generation, or play audio, idk. (the second is unlikely.)
 * Perhaps the optimization
 * Maybe something else...
 
 I don't plan to distribute the open sourse. There will be a build for Windows in the release.
 
-The build contains the standard ~~`config,json`~~. And also it is obligatory to have `ffmpeg.exe` in the root
+~~The build contains the standard `config,json`~~. And also it is obligatory to have `ffmpeg.exe` in the root
 
 
 
