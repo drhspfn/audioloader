@@ -37,8 +37,8 @@ I don't plan to distribute the open sourse. There will be a build for Windows in
 
 ## Releases
 __(Weight considering `ffmpeg.exe`)__
-* One is an assembled program in one file, `ffmpeg.exe` and `config.json`. `(Weight ~251 mb)`
-* The other, an application assembled in a folder. `(Weight ~303 mb)`
+* One is an assembled program in one file, `ffmpeg.exe` and `config.json`. `(Weight ~204 mb)`
+* The other, an application assembled in a folder. `(Weight ~293 mb)`
 
 
 
