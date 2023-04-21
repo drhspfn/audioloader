@@ -19,13 +19,17 @@ After using one of the search types, you get to a menu with a list of results. W
 
 ## In future
 * ~~Add support for `SoundCloud`~~
+* Adding covers when downloading from YouTube\YT Music. `(Done, waiting for release)`
+* Fix, abrupt exits from the app. `(Done, waiting for release)`
 * Possible support for platforms other than `Windows`
 * Perhaps the optimization
 * Maybe something else...
 
 I don't plan to distribute the open sourse. There will be a build for Windows in the release.
 
-The build contains the standard `config,json`. And also it is obligatory to have `ffmpeg.exe` in the root
+The build contains the standard ~~`config,json`~~. And also it is obligatory to have `ffmpeg.exe` in the root
+
+
 
 ## Releases
 __(Weight considering `ffmpeg.exe`)__
@@ -34,4 +38,6 @@ __(Weight considering `ffmpeg.exe`)__
 
 
 
-p.s: Perhaps it would have been a release by now, but I'm not sure about the optimization
+## P.S
+* Added standard config to the code.But on versions `pre0.3` and `release 0.5` you still need `config.json` in the root directory
+* Perhaps it would have been a release by now, but I'm not sure about the optimization
