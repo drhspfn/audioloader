@@ -22,17 +22,17 @@ After using one of the search types, you get to a menu with a list of results. W
 * Update notification `(Done, waiting for release)`
 * Adding covers when downloading from YouTube\YT Music. `(Done, waiting for release)`
 * Deezer Synchronized Texts Download `(Done, waiting for release)`
-* `Genius` and `MusixMatch` lyrics search
+* `Genius` and ~~`MusixMatch`~~ lyrics search (see P.S#3) `(Done, waiting for release)`
 * A separate little app for downloading videos from `YouTube`. (Make it separate, or a menu in the main?...idk..)
 * Fix, abrupt exits from the app. `(Done, waiting for release)`
 * Possible support for platforms other than `Windows`
 * It is possible to do Lyric video generation, or play audio, idk. (the second is unlikely.)
-* Perhaps the optimization
+* Perhaps the optimization (see P.S#2)
 * Maybe something else...
 
 I don't plan to distribute the open sourse. There will be a build for Windows in the release.
 
-~~The build contains the standard `config,json`~~. And also it is obligatory to have `ffmpeg.exe` in the root
+~~The build contains the standard `config,json`~~(see P.S#1). ~~And also it is obligatory to have `ffmpeg.exe` in the root~~ (see P.S#4)
 
 
 
@@ -44,5 +44,7 @@ __(Weight considering `ffmpeg.exe`)__
 
 
 ## P.S
-* Added standard config to the code.But on versions `pre0.3` and `release 0.5` you still need `config.json` in the root directory
-* Perhaps it would have been a release by now, but I'm not sure about the optimization
+1. Added standard config to the code.But on versions `pre0.3` and `release 0.5` you still need `config.json` in the root directory
+2. Perhaps it would have been a release by now, but I'm not sure about the optimization
+3. Genius API support.
+4. The  release 1.0 `OneFile` will be compressed into a single file. After the first run, `config.json` will be created. The `OneDir release` is structurally unchanged
